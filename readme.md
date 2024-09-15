@@ -1,4 +1,4 @@
-# Stock Researcher & Financial Analysis AI Agents
+# Stock Researcher & Analyst AI Agent
 
 This repository contains an AI-powered financial analysis system that assists users in researching stocks, analyzing financial data, assessing risks, performing technical and fundamental analysis, and fetching the latest news. It uses **LangChain**, **yfinance**, **Streamlit**, and **CrewAI** with **LLama 70B** models to provide insightful financial reports.
 
